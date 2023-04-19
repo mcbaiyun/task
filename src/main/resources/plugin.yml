@@ -1,0 +1,8 @@
+name: task
+version: '${project.version}'
+main: work.baiyun.task.Task
+api-version: 1.19
+commands:
+  task:
+    description: 每日任务指令
+    usage: /task
